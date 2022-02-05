@@ -1,2 +1,7 @@
 this is program file to intilialize the git
+<<<<<<< Updated upstream
 am ok
+=======
+this is stash demo
+stash file
+>>>>>>> Stashed changes
